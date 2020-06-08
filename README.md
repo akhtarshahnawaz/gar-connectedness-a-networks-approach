@@ -10,17 +10,17 @@ We investigate the spillover effects of GDP growth volatility over 12 OECD mem-b
 
 ![alt text](https://github.com/akhtarshahnawaz/Growth-at-risk-spillovers-A-networks-approach/blob/master/graphs/F1O1_Aggregate_To_and_From_Connectedness_Statistics.png?raw=true)
 
-### Visualization of connectedness linkages to USA for 5th and 50th Quantile
+### Visualization of connectedness "to" USA for 5th and 50th Quantile
 ![alt text](https://github.com/akhtarshahnawaz/Growth-at-risk-spillovers-A-networks-approach/blob/master/graphs/F1O1_connectedness_Network.png?raw=true)
 
-### Visualization of change in connectedness linkages to USA for 5th and 50th Quantile
+### Visualization of change in connectedness "to"" USA for 5th and 50th Quantile
 ![alt text](https://github.com/akhtarshahnawaz/Growth-at-risk-spillovers-A-networks-approach/blob/master/graphs/F1O1_connectedness_change_Network.png?raw=true)
 
 
-### Visualization of volatility of change in connectedness linkages to USA for 5th and 50th Quantile
+### Visualization of volatility of change in connectedness linkages "to" USA for 5th and 50th Quantile
 ![alt text](https://github.com/akhtarshahnawaz/Growth-at-risk-spillovers-A-networks-approach/blob/master/graphs/F1O1_volatility_connectedness_change_Network.png?raw=true)
 
 
-### Comparison of some aggregate connectedness statistics for 5th and 5oth Quantile over time
+### Comparison of some aggregate connectedness statistics for 5th and 5th Quantile over time
 ![alt text](https://github.com/akhtarshahnawaz/Growth-at-risk-spillovers-A-networks-approach/blob/master/graphs/Combined%20Aggregate%20connectedness.png?raw=true)
 
