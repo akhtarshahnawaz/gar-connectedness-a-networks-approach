@@ -9,6 +9,7 @@ We investigate the connectedness of GDP growth risk over 12 OECD member countrie
 **Code:** Codes used in analysis can be found in 'code' directory.<br/>
 **Results:** Outputs from code is available as html files in 'results' directory<br/>
 **Graphs:** All the graph and charts from result can be found in "graphs/" directory. Files prefixed with F{h}O{p} indicate output for 'h' period ahead quantile forecast used in 'p' ordered Vector Auto-Regression.<br/>
+**Tables:** Table outputs can be found in 'tables' directory.<br/>
 
 ### Comparison of Median pairwise connectedness for 5th and 50th quantile for Overall and Crisis Period
 
