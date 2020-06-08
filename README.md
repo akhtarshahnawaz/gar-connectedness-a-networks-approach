@@ -5,8 +5,9 @@ We investigate the spillover effects of GDP growth volatility over 12 OECD mem-b
 
 ### Organizational details
 Data: All datasets used in analysis can be found in 'data' directory.
-Code: 
-All the graph and charts from result can be found in "results/graphs/" directory. Files prefixed with F{h}O{p} indicate output for 'h' period ahead quantile forecast used in 'p' ordered Vector Auto-Regression.
+Code: All codes used in analysis can be found in 'code' directory
+Results: All result outputs from code is available as html files in 'results' directory
+Graphs: All the graph and charts from result can be found in "results/graphs/" directory. Files prefixed with F{h}O{p} indicate output for 'h' period ahead quantile forecast used in 'p' ordered Vector Auto-Regression.
 
 ### Comparison of Median pairwise connectedness for 5th and 50th quantile for Overall and Crisis Period
 
